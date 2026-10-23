@@ -1,0 +1,4 @@
+# Trabajo-de-fin-de-master
+ DETECCIÓN DE BOTS Y CUENTAS FALSAS EN REDES SOCIALES PARA APOYO A INVESTIGACIONES DIGITALES
+
+Pending Details for the readme
